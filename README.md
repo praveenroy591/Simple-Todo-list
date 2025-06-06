@@ -3,14 +3,22 @@ The Simple To-Do List is a single-page application developed using the Angular f
 
 # 🚀 Key Features:
 🖊️ Add a task with instant two-way binding
+
 ✅ Mark tasks as complete/incomplete
+
 🗑️ Delete tasks
+
 📦 Angular services for data management
+
 ♻️ Modular structure with reusable components
+
 🌐 Responsive layout using Angular styling and directives
 
 # 🧰 Technologies Used:
 Angular 17
+
 TypeScript
+
 HTML & CSS (with optional Angular Material)
+
 Angular CLI
